@@ -118,5 +118,5 @@ You can find the inputs to the particle filter in the `data` directory.
 3. landmark id
 
 #### The Project Result:
-You can take a look at the result of this project in the followling link in youtube: https://youtu.be/rVlIfD9bz_I
+You can take a look at the result of this project in the following link in youtube: https://youtu.be/rVlIfD9bz_I
 
